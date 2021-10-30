@@ -6,7 +6,7 @@
 A fully fledged open source blog publishing application, built with ♥ using Node.js
 
 >P.S. This Project Is Still In It's Initial Stages Of Development
-<pre><a href="http://idevblog.herokuapp.com/">View Live Demo</a></pre>
+<pre>View Live Demo</a></pre>
 
 ### Routes
 
@@ -18,7 +18,7 @@ A fully fledged open source blog publishing application, built with ♥ using No
 
   ##### Clone the repository
 ```bash
-git clone https://github.com/ishandeveloper/Node-Blog.git
+git clone https://github.com/Ajith4017/STUBLOGS.git
 ```
   ##### Move to the desired folder
 ```bash
@@ -44,7 +44,7 @@ npm start
 
 ### How to make a Pull Request:
 
-**1.** Fork [this](https://github.com/ishandeveloper/Node-Blog) repository.
+**1.** Fork [this](https://github.com/Ajith4017/STUBLOGS) repository.
 
 **2.** Clone the forked repository.
 
@@ -80,7 +80,7 @@ git push -u origin development
 
 **8.** Create a Pull Request!
 
-**Congratulations!**  :boom: Sit and relax, you've made your contribution to [Node Blog](https://github.com/ishandeveloper/Node-Blog) project.
+**Congratulations!**  :boom: Sit and relax, you've made your contribution to [Node Blog](https://github.com/Ajith4017/STUBLOGS) project.
 
 
 ## Tasks and Features
@@ -95,7 +95,7 @@ git push -u origin development
 * Analyze further design requirements and integrate them into the web app.
 
 
-##### Made with ♥ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
+##### Made with ♥ by <a href="https://github.com/Ajith4017</a>
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Ajith4017
