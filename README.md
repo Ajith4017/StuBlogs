@@ -1,6 +1,6 @@
-[![HitCount](http://hits.dwyl.com/ishandeveloper/Node-Blog.svg)](http://hits.dwyl.com/ishandeveloper/Node-Blog)
 
-<img src="https://github.com/ishandeveloper/Node-Blog/blob/master/Screenshots/compose.gif?raw=false" width="100%">
+
+<img src="https://github.com/Ajith4017/STUBLOGS/blob/master/Screenshots/compose.gif?raw=false" width="100%">
 
 # Node Blog
 A fully fledged open source blog publishing application, built with ♥ using Node.js
